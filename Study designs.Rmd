@@ -8,3 +8,16 @@ bibliography: referanser.bib
 
 ## Study Designs
 
+I denne opggaven om studie design vil jeg bruke QALMRI metoden [@brosowsky2020] for å bryte ned artiklene fra fem forskjllige originale studier som undersøker det samme i et vitenskapelig område. De utvalgte studiene for denne analysen er [@johnsen2021], [@brigatto2019], [@gentil2018], [@saric2019], og [@lasevicius2019].
+
+## Spørsmål
+
+## Alternativ
+
+## Logik
+
+## Metoder
+
+## Resultater
+
+## Konklusjon

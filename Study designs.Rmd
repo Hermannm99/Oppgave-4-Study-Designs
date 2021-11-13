@@ -12,9 +12,19 @@ I denne opggaven om studie design vil jeg bruke QALMRI metoden [@brosowsky2020] 
 
 ## Spørsmål
 
+Den overordnede tematikken i mine utvalgte studier er trenigsfrekvens, og hvilke påvirkninger den har på adaptasjonene. Treningsfrekvens beskrives i litteraturen som hvor mange treningsøkter som gjennomføres i en gitt tidsperiode, men også som hvor mange ganger en muskelgruppe blir trent i løpet av en periode eller hvor mange økter som blir gjennomført ([@kraemer2004;@schoenfeld2016].
+
+### 
+
+Studiene utforsket tilpasningene til styrketrening med forskjellig treningsøkter med likt treningsvolum. De ønsket altså besvare hvilken treningsfrekvens som ga de beste tilpassningene[@brigatto2019;@gentil2018;@johnsen2021;@saric2019;@lasevicius2019].
+
 ## Alternativ
 
+Alle disse studiene hadde en forklaring for hvorfor studien ble gjort formulert som et form for spørsmål, men det var også hypoteser i introduskjonen. For eksempel skrev [@brigatto2019] at basert på tidligere forskning ville de forvente bedre adaptasjoner i gruppen som trente 2x 8 set per uke enn i gruppen som trente 1x 16 set per uke. Dette skilte seg fra studiene som sammenlinket høyere frekvenser. [@saric2019] som sammenlinket 3 vs 6 økter per uke med likt ukentlig treningsvolum, formulerte en hypotese om at det ville være like adaptasjoner, basert på studiens design og tidligere forskning med kontrollert ukentlig volum og liknende protokoller.
+
 ## Logik
+
+Logikken i veien til en hypotese eller spørsmål i disse studiene som undersøker effekten av forskjellige treningsfrekvenser baseres i alle disse studiene på tidligere evidens fra andre fagfellevurderte artikler[@brigatto2019;@gentil2018;@johnsen2021;@saric2019;@lasevicius2019]. Selv om disse studiene undersøker det samme overordnede spørsmålet, gjør de metodiske forskjellene si studiene at formuleringen av hypotesene blir forskjellig.
 
 ## Metoder
 

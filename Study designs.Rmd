@@ -8,10 +8,10 @@ bibliography: referanser.bib
 
 # **Study Designs**
 
-I denne opggaven om studie design vil jeg bruke QALMRI metoden [\@brosowsky2020]
+I denne opggaven om studie design vil jeg bruke QALMRI metoden [@brosowsky2020]
 for å bryte ned artiklene fra fem forskjllige originale studier som undersøker
 det samme i et vitenskapelig område. De utvalgte studiene for denne analysen er
-[\@johnsen2021], [\@brigatto2019], [\@gentil2018], [\@saric2019], og [\@lasevicius2019].
+[@johnsen2021], [@brigatto2019], [@gentil2018], [@saric2019], og [@lasevicius2019].
 
 ## **Spørsmål**
 
@@ -19,41 +19,39 @@ Den overordnede tematikken i mine utvalgte studier er trenigsfrekvens,
 og hvilke påvirkninger den har på adaptasjonene. Treningsfrekvens beskrives i
 litteraturen som hvor mange treningsøkter som gjennomføres i en gitt
 tidsperiode, men også som hvor mange ganger en muskelgruppe blir trent i løpet
-av en periode eller hvor mange økter som blir gjennomført ([\@kraemer2004; \@schoenfeld2016].
+av en periode eller hvor mange økter som blir gjennomført [@kraemer2004; @schoenfeld2016].
 
 Studiene utforsket tilpasningene til styrketrening med forskjellig
 treningsøkter med likt treningsvolum. De ønsket altså besvare hvilken
-treningsfrekvens som ga de beste tilpassningene[\@brigatto2019; \@gentil2018; \@johnsen2021;
-\@saric2019; \@lasevicius2019].
+treningsfrekvens som ga de beste tilpassningene [@johnsen2021; @brigatto2019;@gentil2018;@saric2019;@lasevicius2019].
 
 ## **Alternativ**
 
 Alle disse studiene hadde en forklaring for hvorfor studien ble gjort
 formulert som et form for spørsmål, men det var også hypoteser i
-introduskjonen. For eksempel skrev [\@brigatto2019] at basert på tidligere
+introduskjonen. For eksempel skrev [@brigatto2019] at basert på tidligere
 forskning ville de forvente bedre adaptasjoner i gruppen som trente 2x 8 set
 per uke enn i gruppen som trente 1x 16 set per uke. Dette skilte seg fra
-studiene som sammenlinket høyere frekvenser. [\@saric2019] som sammenlinket 3 vs
+studiene som sammenlinket høyere frekvenser. [@saric2019] som sammenlinket 3 vs
 6 økter per uke med likt ukentlig treningsvolum, formulerte en hypotese om at
 det ville være like adaptasjoner, basert på studiens design og tidligere
 forskning med kontrollert ukentlig volum og liknende protokoller. Det kan også
 være andre ting en den tenkte årsaksammenhengen som kan forklare hypotesen, det
-kan være bias, sjanse, virkning-årsak, og forvirrende faktorer [\@hulley_2013]
+kan være bias, sjanse, virkning-årsak, og forvirrende faktorer [@hulley_2013]
 
 ## **Logik**
 
 Logikken i veien til en hypotese eller spørsmål i disse studiene som
 undersøker effekten av forskjellige treningsfrekvenser baseres i alle disse
-studiene på tidligere evidens fra andre fagfellevurderte artikler[\@brigatto2019;
-\@gentil2018; \@johnsen2021; \@saric2019; \@lasevicius2019]. Selv om disse studiene
+studiene på tidligere evidens fra andre fagfellevurderte artikler[@brigatto2019;@gentil2018; @johnsen2021; @saric2019; @lasevicius2019]. Selv om disse studiene
 undersøker det samme overordnede spørsmålet, gjør de metodiske forskjellene i
 studiene at formuleringen av hypotesene blir forskjellig som vist i avsnittet
-over. Studiene som har undersøkt høyere frekvenser opp mot hverandre[\@johnsen2021;
-\@saric2019] bruker også den samme vitenskaplige evidensen for å komme frem til
-sin hypotese som studiene som undersøker lavere frekvenser[\@brigatto2019; \@gentil2018;
-\@lasevicius2019]. Studiene med høyere frekvenser, legger i tilegg vekt på at
+over.
+
+Studiene som har undersøkt høyere frekvenser opp mot hverandre [@johnsen2021;@saric2019] bruker også den samme vitenskaplige evidensen for å komme frem til
+sin hypotese som studiene som undersøker lavere frekvenser[@brigatto2019; @gentil2018;@lasevicius2019]. Studiene med høyere frekvenser, legger i tilegg vekt på at
 det er mindre forsket på, og støtter seg derfor på generell evidens om at likt
-treningsvolum gir like adaptasjoner[\@johnsen2021; \@saric2019].
+treningsvolum gir like adaptasjoner[@johnsen2021;@saric2019].
 
 ## **Metoder**
 
@@ -67,29 +65,30 @@ varierer i disse studienes metoder er varighet på intervensjon, testmetoder,
 antall deltakere, frekvens som nevnt tidligere og til en viss grad hvilket
 samfunns segment forsøkspersonene tilhører.
 
-Alle studiene har beskrivende data på sin deltaker masse. [\@saric2019]
+Alle studiene har beskrivende data på sin deltaker masse. [@saric2019]
 sin studie hadde en deltaker masse bestående av 30 styrketrente menn,
 (gjennomsnitt+Standardavvik) alder = 22.6 +- 2.1 år, høyde = 183,1+-6,0cm, og
 kroppsvekt = 87,2+-11,6kg. Denne studien hadde en treningsintervensjon med
 varighet på 6 uker, og undersøkte muskelstyrke ved hjelp av 1RM, muskulær
 utholdenhet med RM på 60% av 1RM, og muskeltykkelse ved hjelp av ultralyd [\@saric2019].
-De samme testene pre og post ble gjort i studien til [\@brigatto2019], men som
+De samme testene pre og post ble gjort i studien til [@brigatto2019], men som
 testet lavere frekvenser mot hverandre, og med en lengere intervensjon. Disse
 studiene undersøkte begge frekvens på styrketrente menn, men med såpass store
 metodiske variasjoner at hypotesene er forskjellige.
 
 I alle studiene brukes det flere forskjellige statistiske tester.
-Frekventiske tester er brukt i samtlige, som feks Shapiro-wilk test [\@brigatto2019;\@johnsen2021;\@lasevicius2019],
-t-test \@brigatto2019, og 2x2 repetert ANOVA [\@brigatto2019;\@johnsen2021] . Den
+Frekventiske tester er brukt i samtlige, som feks Shapiro-wilk test [@brigatto2019;@johnsen2021;@lasevicius2019],
+t-test @brigatto2019, og 2x2 repetert ANOVA [@brigatto2019;@johnsen2021] . Den
 andre måten er å estimmere en hypoteses sansynlighet ved hjelp av bayesisk
-sansynlighet, som i tillegg til frekventistisk statestikk blir gjort i [\@saric2019].
+sansynlighet, som i tillegg til frekventistisk statestikk blir gjort i [@saric2019].
 
 Alle de evaluerte studiene har også beregnet effekt størrelse fra
-pre-post test resultatene [\@brigatto2019; \@gentil2018; \@johnsen2021; \@saric2019;
-\@lasevicius2019].
+pre-post test resultatene [@brigatto2019; @gentil2018; @johnsen2021; @saric2019;@lasevicius2019].
 
-## **Resultater**
+## **Resultater og konklusjon**
 
-## **Konklusjon**
+I alle studiene besvares hypotesen, men det presiseres også at det trengs mer forskning på området for å kunne konkludere. Det gis også forklaringer på svakheter i studiene som for eksempel små utvalg, og kort varighet. Disse studiene viser også at den metodiske utformingen er viktig da frekvensens påvirkning kan gi signifikant p-verdi i en type studie, med lavere frekvenser som sammenliknes, men ikke i andre. Derfor er også konklusjonene litt forskjellige, og gjelder kun for frekvensene som sammenliknes, og ikke treningsfrekvens generelt [@johnsen2021; @brigatto2019;@gentil2018;@saric2019;@lasevicius2019].
 
-## 
+## Bibliography
+
+

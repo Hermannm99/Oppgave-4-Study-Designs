@@ -1,0 +1,14 @@
+---
+title: "øve for oppg 5"
+author: "Hermann moen"
+date: "19 11 2021"
+output: html_document
+editor_options: 
+  chunk_output_type: console
+bibliography: referanser.bib
+---
+
+```{}
+```
+
+[@zaroni2019]

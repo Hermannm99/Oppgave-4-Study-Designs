@@ -40,6 +40,10 @@ Alle de evaluerte studiene har også beregnet effekt størrelse fra pre-post tes
 
 I alle studiene besvares hypotesen, men det presiseres også at det trengs mer forskning på området for å kunne konkludere. Det gis også forklaringer på svakheter i studiene som for eksempel små utvalg, og kort varighet. Disse studiene viser også at den metodiske utformingen er viktig da frekvensens påvirkning kan gi signifikant p-verdi i en type studie, med lavere frekvenser som sammenliknes, men ikke i andre. Derfor er også konklusjonene litt forskjellige, og gjelder kun for frekvensene som sammenliknes, og ikke treningsfrekvens generelt [@johnsen2021; @brigatto2019; @gentil2018; @saric2019; @lasevicius2019].
 
-[@zaroni2019]
+Besvare hva rct er
+
+Endre overskrifter fra f.eks spørsmål til "hva undersøker disse studiene"
+
+Dele inn avsnittene i konkrete deler, med underoverskifter f.eks fra metode: studie design, statistiske tester, og fokusere på styrker og svakheter.
 
 ## Bibliography
